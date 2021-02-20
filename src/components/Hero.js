@@ -1,5 +1,5 @@
 import React from 'react';
-import phoneImg from './assets/phone.svg';
+import phoneImg from '../assets/phone.svg';
 
 const Hero = () => {
   return <h2>hero component</h2>;

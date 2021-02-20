@@ -1,13 +1,16 @@
 import React from 'react';
-import Navbar from './Navbar';
-import Hero from './Hero';
-import Sidebar from './Sidebar';
-import Submenu from './Submenu';
+import Navbar from './components/Navbar';
+import Hero from './components/Hero';
+import Sidebar from './components/Sidebar';
+import Submenu from './components/Submenu';
 
 function App() {
   return (
     <>
-      <h2>stripe submenus setup</h2>
+      <Navbar />
+      <Sidebar />
+      <Hero />
+      <Submenu />
     </>
   );
 }
