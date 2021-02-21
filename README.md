@@ -1,9 +1,11 @@
 # submenu-useContext-Reactjs
 
 This is the 13th project to refresh ReactJs concepts. I am writing an article about ReactJs main concepts so I can share it with the community once it's finished.
+Hover over the menu items and see information about different sections of each page.
+
 Topic:
 
-• useContext() hook.
+• useContext() hook, contextAPI.
 
 
 https://submenu-usecontext.vercel.app/
